@@ -1,0 +1,28 @@
+{
+  "name": "markdown-it-code-webcomponents",
+  "version": "1.0.0",
+  "description": "Componentize codes in markdown.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hilookas/markdown-it-code-webcomponents.git"
+  },
+  "keywords": [
+    "markdown-it",
+    "markdown-it-plugin",
+    "plugin",
+    "webcomponents"
+  ],
+  "author": "lookas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hilookas/markdown-it-code-webcomponents/issues"
+  },
+  "homepage": "https://github.com/hilookas/markdown-it-code-webcomponents#readme",
+  "dependencies": {
+    "markdown-it": "^10.0.0"
+  }
+}
